@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-ctor = "0.2.4"
+ctor = { version = "0.2.4", features = ["used_linker"] }
