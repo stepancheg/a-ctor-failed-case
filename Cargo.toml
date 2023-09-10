@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-ctor = "0.1.22"
+ctor = "0.2.4"
 foo = { path = "foo" }
 
 [workspace]
